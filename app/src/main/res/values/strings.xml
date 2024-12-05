@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prova API Nasa</string>
+    <string name="api_image">Imagem do dia</string>
+    <string name="previous_image">Imagem anterior</string>
+    <string name="next_image">Próxima imagem</string>
+</resources>
