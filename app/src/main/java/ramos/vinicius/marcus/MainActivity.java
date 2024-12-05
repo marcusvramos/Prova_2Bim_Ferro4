@@ -33,7 +33,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class MainActivity extends AppCompatActivity {
 
     private static final String BASE_URL = "https://api.nasa.gov/";
-    private static final String API_KEY = "6V196CKn4EYnHag8MnYFWVCqdHXmJ3YFIeamgrbI";
+    private static final String API_KEY = "API_KEY";
     private static final String TAG = "MainActivity";
 
     private TextView titleTextView;
